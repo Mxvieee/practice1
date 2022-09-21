@@ -1,5 +1,7 @@
 public class kadai101 {
 	public static void main(String[] args) {
-		System.out.print("hello world");
+		for(int i = 0 ; i<100 ; i++){
+			System.out.println("Hello world");
+		}
 	}
 }
